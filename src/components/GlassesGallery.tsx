@@ -12,7 +12,7 @@ export const GlassesGallery = ({ onGlassesSelect, selectedGlasses }: GlassesGall
     {
       id: "classic-black",
       name: "Monture Classique Noire",
-      price: "Prix: 250 MAD",
+      price: "250 MAD",
       seller: "Optique Atlas",
       image: "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?w=400&h=300&fit=crop",
       description: "Montures noires intemporelles pour un usage quotidien"
@@ -20,15 +20,15 @@ export const GlassesGallery = ({ onGlassesSelect, selectedGlasses }: GlassesGall
     {
       id: "modern-blue",
       name: "Monture Moderne Bleue",
-      price: "Prix: 320 MAD",
+      price: "320 MAD",
       seller: "Vision Maroc",
-      image: "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=400&h=300&fit=crop",
+      image: "https://opticezzaher.com/wp-content/uploads/2024/09/Design-sans-titre-2024-09-17T005711.666.png?w=400&h=300&fit=crop",
       description: "Montures bleues contemporaines avec style"
     },
     {
       id: "vintage-round",
       name: "Monture Ronde Vintage",
-      price: "Prix: 380 MAD",
+      price: "380 MAD",
       seller: "Lunettes du Royaume",
       image: "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=400&h=300&fit=crop",
       description: "Montures rondes rétro pour un look classique"
@@ -36,7 +36,7 @@ export const GlassesGallery = ({ onGlassesSelect, selectedGlasses }: GlassesGall
     {
       id: "sport-wrap",
       name: "Monture Sport Enveloppante",
-      price: "Prix: 420 MAD",
+      price: "420 MAD",
       seller: "Sport Vision",
       image: "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?w=400&h=300&fit=crop",
       description: "Montures enveloppantes pour activités sportives"
@@ -44,7 +44,7 @@ export const GlassesGallery = ({ onGlassesSelect, selectedGlasses }: GlassesGall
     {
       id: "designer-cat",
       name: "Monture Cat-Eye Design",
-      price: "Prix: 480 MAD",
+      price: "480 MAD",
       seller: "Élégance Optique",
       image: "https://images.unsplash.com/photo-1577803645773-f96470509666?w=400&h=300&fit=crop",
       description: "Montures cat-eye élégantes pour la sophistication"
