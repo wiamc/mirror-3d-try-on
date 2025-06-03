@@ -37,7 +37,7 @@ export const LandingHero = ({ onImageUpload }: LandingHeroProps) => {
           
           <div className="text-center">
             <div className="w-16 h-16 bg-purple-100 rounded-full flex items-center justify-center mx-auto mb-4">
-              <span className="text-2xl">🎯</span>
+              <span className="text-2xl">🧊</span>
             </div>
             <h3 className="text-lg font-semibold text-gray-800 mb-2">View in 3D</h3>
             <p className="text-gray-600">See your personalized 3D head model</p>
